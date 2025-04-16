@@ -1,17 +1,21 @@
-# Reiryuki SoundEnhancement Sony Xperia Patch(RSESX)
-Software for patching reiryuki Sound Enhancement Sony Xperia 10 Magisk Module
-allowing Owner of xperia 1 II keep the phone as 1 II and fix GE launcher(8.0.A.22) crash cause by originally spoofed as other Xperia
-This Software Are free to used and download. Whoever. do not Re-distribute the software. it been uploaded to Github and XDAforums for anyone to see(including detail step by step)
-IF YOU DOWNLOAD THIS SOFTWARE OUTSIDE XDA/GITHUB. I DO NOT RESPOSIBLE FOR ANY VIRUSSES YOU GET OR BOOTLOOP THAT MIGHT HAPPEN. YOU HAS BEEN WARNED
+# Reiryuki Sound Enhancement Sony Xperia Patch (RSESX)
 
-here a parameter that this software have
-        '-V | --version       : Show Detail information about this build\n'  
-        '-D | --DEBUG         : Enable All Developer Code and Print Detail Log(Developer/Debug GUI not included)\n'
-        '-H | --help          : Show all Command\n'
+Software for patching Reiryuki Sound Enhancement Sony Xperia 10 Magisk Module, allowing the owner of Xperia 1 II to keep the phone as 1 II and fix the GE launcher (8.0.A.22) crash caused by originally being spoofed as another Xperia.
 
-for intruction of HOW TO. please check this XDA forum
-https://xdaforums.com/t/mod-software-root-soundenhancement-from-xperia-10-patch-r-s-e-s-x.4691944/
+This software is free to use and download. However, do not redistribute the software. It has been uploaded to GitHub and XDA Forums for anyone to see (including detailed step-by-step instructions).
 
-for more question or help please issues in github(for help also include the text file created with the software at launch and connected. enabled Debug to get file)
+**IF YOU DOWNLOAD THIS SOFTWARE OUTSIDE XDA/GITHUB, I DO NOT TAKE RESPONSIBILITY FOR ANY VIRUSES YOU MAY GET OR BOOTLOOPS THAT MIGHT HAPPEN. YOU HAVE BEEN WARNED.**
 
-and last. always used released version.
+Here are the parameters that this software has:
+- `-V | --version`       : Show detailed information about this build  
+- `-D | --DEBUG`         : Enable all developer code and print detailed log (Developer/Debug GUI not included)  
+- `-H | --help`          : Show all commands  
+
+For instructions on **HOW TO**, please check this XDA forum:  
+[https://xdaforums.com/t/mod-software-root-soundenhancement-from-xperia-10-patch-r-s-e-s-x.4691944/](https://xdaforums.com/t/mod-software-root-soundenhancement-from-xperia-10-patch-r-s-e-s-x.4691944/)
+
+For more questions or help, please open an issue on GitHub (for help, also include the text file created with the software at launch and enable Debug to get the file).
+
+And lastly, always use the released version.
+
+
